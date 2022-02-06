@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+
+    background-color: aquamarine;
+    padding: 10px;
+
+}
+
+header a {
+    text-decoration: none;
+    border: 1px solid orange;
+    border-radius: 5px;
+    background-color: orange ;
+    color: black;
+    padding: 5px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.main_p {
+    text-align: center;
+}
+
+.border_p {
+    border:2px solid black;
+}
+
+footer {
+    background-color: coral;
+    color: white;
+    padding: 10px;
+}
